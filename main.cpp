@@ -1,5 +1,4 @@
-/*MISBAH UR REHMAN 
-  SP17-BCS-026*/
+/*Author : hybridoitc*/
 #include <iostream>
 using namespace std;
 int main(){
